@@ -9,3 +9,4 @@ dist/
 .idea/
 build/
 MANIFEST
+.idea/vcs.xml
