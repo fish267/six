@@ -6,4 +6,4 @@ pip install -U pip
 easy_install distribute
 
 pip install -U coverage
-pip install coveralls
+pip install python-coveralls
