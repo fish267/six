@@ -1,0 +1,11 @@
+language: python
+python:
+  - 3.6
+  - nightly
+install:
+  - sh ./test/travis_config/travis_setup.sh
+script:
+  - sh ./test/travis_config/travis_run.sh
+
+after_success:
+  coveralls
