@@ -1,6 +1,6 @@
 import unittest
 
-from six import add, haha
+from six_web.six import add, haha
 
 
 class TestSixConfig(unittest.TestCase):
