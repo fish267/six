@@ -3,6 +3,7 @@
 *.db
 *.log
 *.mo
+vcs.xml
 ._*
 *.*~
 dist/
