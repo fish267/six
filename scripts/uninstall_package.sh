@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-pip uninstall six_web
+pip uninstall six_web -y
